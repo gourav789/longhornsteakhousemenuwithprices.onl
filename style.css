@@ -1297,11 +1297,17 @@ h1, h2, h3, h4 {
     gap: 4px;
     border-bottom: 1px solid var(--border-subtle);
     transform: translateY(-110%);
-    transition: transform var(--transition-med);
+    opacity: 0;
+    visibility: hidden;
+    transition: transform var(--transition-med), opacity var(--transition-med), visibility var(--transition-med);
     z-index: 999;
   }
 
-  .nav-links.open { transform: translateY(0); }
+  .nav-links.open { 
+    transform: translateY(0);
+    opacity: 1;
+    visibility: visible;
+  }
 
   .nav-links a {
     width: 100%;
