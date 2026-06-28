@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About Us | LongHorn Steakhouse Menu with Prices</title>
+  <meta name="description" content="Learn about longhornsteakhousemenuwithprices.onl — an independent informational resource for LongHorn Steakhouse menu prices, locations, and dining info." />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://longhornsteakhousemenuwithprices.onl/about.html" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header id="site-header">
+    <nav class="navbar" role="navigation" aria-label="Main navigation">
+      <div class="nav-container">
+        <a href="index.html" class="nav-logo" id="nav-logo-link" aria-label="LongHorn Steakhouse Menu Home">
+          <span class="logo-icon">🤠</span>
+          <div class="logo-text">
+            <span class="logo-main">LongHorn</span>
+            <span class="logo-sub">Steakhouse Menu</span>
+          </div>
+        </a>
+        <button class="hamburger" id="hamburger-btn" aria-label="Toggle menu" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+        <ul class="nav-links" id="nav-links" role="list">
+          <li><a href="index.html#menu" id="nav-menu">Menu</a></li>
+          <li><a href="index.html#locations" id="nav-locations">Locations</a></li>
+          <li><a href="About US" id="nav-about" class="active">About Us</a></li>
+          <li><a href="Contact US" id="nav-contact">Contact</a></li>
+          <li><a href="Privacy Policy" id="nav-privacy">Privacy Policy</a></li>
+          <li><a href="Dislciamer" id="nav-disclaimer">Disclaimer</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <!-- PAGE HERO -->
+  <section class="page-hero">
+    <div class="container">
+      <span class="section-badge">Who We Are</span>
+      <h1>About Us</h1>
+      <p>An independent fan-made resource dedicated to helping diners explore LongHorn Steakhouse's legendary menu and find nearby locations.</p>
+    </div>
+  </section>
+
+  <!-- PAGE CONTENT -->
+  <main class="page-content" id="main-content">
+    <div class="container">
+
+      <div class="content-block fade-up">
+        <h2>🤠 Our Mission</h2>
+        <p>Welcome to <strong>longhornsteakhousemenuwithprices.onl</strong> — your go-to independent resource for exploring the complete LongHorn Steakhouse menu with up-to-date prices, detailed item descriptions, and location information across the United States.</p>
+        <p>Our goal is simple: help diners plan their visit with confidence. Whether you're a longtime LongHorn regular or visiting for the first time, we want to make it easy to browse every menu category — from legendary fire-grilled steaks to handcrafted cocktails — all in one beautifully organized place. Nobody likes surprises at the dinner table when it comes to the bill, and that's exactly the problem we solve.</p>
+        <p>We believe that knowing what's on the menu (and what it costs) before you arrive makes for a better dining experience for everyone. Our site is designed to be fast, easy to use on any device, and packed with every detail you need to make the perfect meal choice before you even walk through the door.</p>
+      </div>
+
+      <div class="content-block fade-up">
+        <h2>📖 What We Cover</h2>
+        <p>Our website is a comprehensive, fan-curated guide to the complete LongHorn Steakhouse dining experience. We've spent considerable time researching, compiling, and organizing every detail so you don't have to. Here's everything you'll find on our site:</p>
+        <ul>
+          <li><strong>Full Menu with Prices</strong> — Every single category is covered: legendary steaks, Texas-sized appetizers, chicken dishes, fresh seafood, garden salads, hearty soups, classic sides, indulgent desserts, craft cocktails, wine, beer, non-alcoholic drinks, lunch specials, the kids menu, and surf &amp; turf combos.</li>
+          <li><strong>Calorie Information</strong> — Approximate calorie counts for every item, helping health-conscious diners and those tracking macros make smart, informed choices without sacrificing flavor.</li>
+          <li><strong>Detailed Descriptions</strong> — Each dish comes with a full, mouth-watering description covering ingredients, preparation style, and what makes it special — so you know exactly what to expect when your plate arrives.</li>
+          <li><strong>Best Seller &amp; Premium Badges</strong> — We highlight the fan-favorite and premium items so first-time visitors can order like regulars.</li>
+          <li><strong>Location Guide</strong> — A state-by-state breakdown of LongHorn Steakhouse locations across all 640+ US restaurants, including major cities in 16+ states.</li>
+          <li><strong>Combo &amp; Surf &amp; Turf Options</strong> — Detailed coverage of combo meals that let you taste multiple menu highlights in a single visit.</li>
+          <li><strong>Lunch Hour Specials</strong> — We cover the lunch menu (available Mon–Sat until 3 PM) so you can plan a budget-friendly midday meal.</li>
+          <li><strong>Kids Menu</strong> — Perfect for families — we've listed every kid-friendly option with pricing, so parents can plan ahead.</li>
+        </ul>
+      </div>
+
+      <div class="content-block fade-up">
+        <h2>🔥 The LongHorn Steakhouse Story</h2>
+        <p>LongHorn Steakhouse was founded in <strong>1981 in Atlanta, Georgia</strong> by Chap Johnson. The first restaurant opened on Peachtree Road and quickly became known for its bold flavors, generous portions, and authentic Western steakhouse atmosphere. The name "LongHorn" pays tribute to the iconic Texas Longhorn cattle breed — a symbol of the American West and rugged frontier spirit.</p>
+        <p>The brand was acquired by <strong>Darden Restaurants</strong> in 2007, one of the largest full-service restaurant companies in the world. Under Darden's stewardship, LongHorn has grown from a regional Georgia chain to a nationwide phenomenon with <strong>640+ locations</strong> across the United States, Puerto Rico, Guam, and even the Philippines.</p>
+        <p>What has never changed is LongHorn's commitment to its founding values: <strong>fire-grilled, boldly seasoned steaks</strong> made from USDA Choice beef, served in a warm, welcoming atmosphere that feels like a celebration every time. Their signature hardwood grill gives every steak that unmistakable smoky char that keeps diners coming back again and again.</p>
+        <p>From the iconic <strong>Outlaw Ribeye®</strong> — their biggest, boldest 20-oz bone-in cut — to the supremely tender <strong>Flo's Filet®</strong>, every steak is hand-selected, expertly seasoned, and cooked exactly to your preference. It's this unwavering dedication to quality that has made LongHorn one of America's most-loved casual steakhouse chains.</p>
+      </div>
+
+      <div class="content-block fade-up">
+        <h2>🌟 Why We Built This Website</h2>
+        <p>As passionate food lovers and frequent diners at LongHorn Steakhouse, we found ourselves constantly searching for one simple thing: <em>a clear, complete, and well-organized menu with prices</em>. While the official LongHorn website is great, it can be tricky to browse all menu items at once, compare prices across categories, or quickly find calorie information while on the go.</p>
+        <p>So we built <strong>longhornsteakhousemenuwithprices.onl</strong> — a fan-made, independently run resource designed with one purpose: to be the single best place on the internet to explore the LongHorn Steakhouse menu in full, with prices, descriptions, and images, all in a clean, modern, mobile-friendly layout.</p>
+        <p>We update our content regularly based on publicly available information, and we genuinely love hearing from our readers when something changes or when a new item hits the menu. This is a community project built for fellow food enthusiasts, and your feedback makes it better every day.</p>
+      </div>
+
+      <div class="content-block fade-up">
+        <h2>🍖 Why LongHorn Stands Apart</h2>
+        <p>In a world full of casual dining chains, LongHorn Steakhouse consistently rises above the crowd. Here's what sets them apart from every other steakhouse in America:</p>
+        <ul>
+          <li><strong>🔥 Real Hardwood Fire-Grilling</strong> — Not gas, not electric — LongHorn cooks over real hardwood every single time, giving every bite that authentic outdoor grill flavor you can't fake.</li>
+          <li><strong>⭐ USDA Choice Beef, Hand-Selected</strong> — Only the top cuts pass LongHorn's strict quality standards. Every steak is hand-picked by their trained team before being seasoned with their proprietary spice blend.</li>
+          <li><strong>🌿 Fresh, Never Frozen Chicken</strong> — The Hand-Breaded Chicken Tenders are breaded fresh in-house every single day — a commitment very few restaurant chains can honestly make.</li>
+          <li><strong>🤠 Genuine Western Hospitality</strong> — From the moment you walk in, LongHorn's team creates an experience that feels warm, genuine, and a little bit adventurous — just like the Wild West itself.</li>
+          <li><strong>💰 Premium Quality at Accessible Prices</strong> — You don't have to spend a fortune to enjoy a world-class steak. LongHorn's value proposition is exceptional — real steakhouse quality without the fine-dining price tag.</li>
+          <li><strong>👨‍👩‍👧‍👦 Perfect for Every Occasion</strong> — Whether it's a family dinner, a first date, a business lunch, or a birthday celebration, LongHorn's atmosphere and menu have something for every diner and every budget.</li>
+          <li><strong>🍹 Handcrafted Cocktails &amp; Fine Wines</strong> — Beyond the steaks, LongHorn's bar program features creative cocktails, a carefully curated wine list, and an impressive selection of draft and bottled beers.</li>
+        </ul>
+      </div>
+
+      <div class="content-block fade-up">
+        <h2>📱 How to Use This Site</h2>
+        <p>Our website is designed to be incredibly simple to navigate on any device — phone, tablet, or desktop. Here's how to get the most out of your visit:</p>
+        <ul>
+          <li><strong>Browse by Category</strong> — Use the tab navigation in the Menu section to instantly jump between Steaks, Appetizers, Chicken &amp; More, Seafood, Salads &amp; Soups, Sides, Desserts, Drinks, Lunch, Kids Menu, and Combos.</li>
+          <li><strong>Check Prices &amp; Calories</strong> — Each menu card shows the current approximate price and calorie count prominently at the bottom, so you can plan your order and budget at a glance without any guesswork.</li>
+          <li><strong>Spot the Best Items</strong> — Look for the red "Best Seller" badge for the most popular dishes, and the gold "Premium" badge for signature, top-tier items worth every penny.</li>
+          <li><strong>Find a Location</strong> — Scroll to the Locations section or click "Locations" in the navigation bar to browse LongHorn restaurants near you, organized by state and major city.</li>
+          <li><strong>Reach Out</strong> — Spotted an error or have a suggestion? Our <a href="Contact US">Contact page</a> has a simple form — just fill it in and we'll respond within 2–3 business days.</li>
+        </ul>
+        <p>We're constantly working to improve the site and keep all information as accurate and current as possible. Bookmark us and check back regularly — we update the menu whenever new items, seasonal dishes, or price changes are announced!</p>
+      </div>
+
+      <div class="content-block fade-up">
+        <h2>⚠️ Important Disclaimer</h2>
+        <p>We want to be completely transparent: <strong>this website is not affiliated with, endorsed by, or operated by LongHorn Steakhouse or Darden Restaurants, Inc.</strong> This is an independent, fan-made informational website created purely for the benefit of diners.</p>
+        <p>All menu information, prices, and descriptions are compiled from publicly available sources and are provided for <strong>general reference only</strong>. Prices shown on this website are approximate, may vary by location, and are subject to change at any time without notice. For the most accurate and current menu information, please visit the <a href="https://longhornsteakhouse.com" target="_blank" rel="noopener noreferrer">official LongHorn Steakhouse website</a> or contact your nearest restaurant directly.</p>
+        <p>For full legal details, please read our <a href="Dislciamer">Disclaimer</a> and <a href="Privacy Policy">Privacy Policy</a>.</p>
+      </div>
+
+      <div class="content-block fade-up">
+        <h2>🌐 About This Website</h2>
+        <p>This website is maintained as a personal project by a small team of food enthusiasts and web developers who genuinely love the dining experience at LongHorn Steakhouse. We are not food critics, we are not paid promoters — we are simply fans who wanted a better, cleaner, more comprehensive way to browse and share menu information online.</p>
+        <p>We update our menu information regularly to reflect current offerings, seasonal specials, and price changes based on publicly available data. We always recommend verifying prices with your local restaurant before visiting, as pricing can vary between regions and is subject to change.</p>
+        <p><strong>Website:</strong> longhornsteakhousemenuwithprices.onl<br />
+        <strong>Email:</strong> <a href="mailto:info@longhornsteakhousemenuwithprices.onl">info@longhornsteakhousemenuwithprices.onl</a></p>
+        <p>If you notice any outdated information, errors in pricing, missing menu items, or broken images, please don't hesitate to visit our <a href="Contact US">Contact page</a> and let us know. We truly appreciate every piece of feedback from our community — it makes this resource better for every LongHorn fan out there.</p>
+      </div>
+
+    </div>
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="site-footer" id="site-footer" role="contentinfo">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <div class="footer-logo">
+            <span class="logo-icon">🤠</span>
+            <div class="logo-text">
+              <span class="logo-main">LongHorn</span>
+              <span class="logo-sub">Steakhouse Menu</span>
+            </div>
+          </div>
+          <p class="footer-desc">Your complete guide to LongHorn Steakhouse menu items and prices. Updated for 2026. Not affiliated with Darden Restaurants or LongHorn Steakhouse.</p>
+          <p class="footer-domain">longhornsteakhousemenuwithprices.onl</p>
+        </div>
+        <div class="footer-links">
+          <h4>Quick Links</h4>
+          <ul>
+            <li><a href="index.html" id="footer-home">Home</a></li>
+            <li><a href="index.html#menu" id="footer-menu">Full Menu</a></li>
+            <li><a href="index.html#locations" id="footer-locations">Locations</a></li>
+            <li><a href="About US" id="footer-about">About Us</a></li>
+            <li><a href="Contact US" id="footer-contact">Contact</a></li>
+          </ul>
+        </div>
+        <div class="footer-links">
+          <h4>Legal</h4>
+          <ul>
+            <li><a href="Privacy Policy" id="footer-privacy">Privacy Policy</a></li>
+            <li><a href="Dislciamer" id="footer-disclaimer">Disclaimer</a></li>
+            <li><a href="https://longhornsteakhouse.com" target="_blank" rel="noopener noreferrer" id="footer-official">Official Site</a></li>
+          </ul>
+        </div>
+        <div class="footer-links">
+          <h4>Menu Categories</h4>
+          <ul>
+            <li><a href="index.html#menu" id="footer-steaks">Legendary Steaks</a></li>
+            <li><a href="index.html#menu" id="footer-apps">Appetizers</a></li>
+            <li><a href="index.html#menu" id="footer-seafood">Seafood</a></li>
+            <li><a href="index.html#menu" id="footer-desserts">Desserts</a></li>
+            <li><a href="index.html#menu" id="footer-drinks">Drinks</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2026 longhornsteakhousemenuwithprices.onl — Informational purposes only. Not affiliated with LongHorn Steakhouse or Darden Restaurants, Inc.</p>
+        <p>All trademarks, menu items, and images are property of their respective owners. Prices may vary by location.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
