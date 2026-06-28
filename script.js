@@ -50,32 +50,6 @@
     });
   }
 
-  /* ---- Menu tabs ---- */
-  const tabBtns   = document.querySelectorAll('.tab-btn');
-  const panels    = document.querySelectorAll('.menu-panel');
-
-  function switchTab(tabId) {
-    tabBtns.forEach(btn => {
-      const isActive = btn.dataset.tab === tabId;
-      btn.classList.toggle('active', isActive);
-      btn.setAttribute('aria-selected', isActive);
-    });
-    panels.forEach(panel => {
-      panel.classList.toggle('active', panel.id === 'panel-' + tabId);
-    });
-    // Scroll tabs into view on mobile
-    const activeBtn = document.querySelector('.tab-btn.active');
-    if (activeBtn) {
-      activeBtn.scrollIntoView({ inline: 'nearest', behavior: 'smooth' });
-    }
-  }
-
-  // Make switchTab globally accessible (used in footer links)
-  window.switchTab = switchTab;
-
-  tabBtns.forEach(btn => {
-    btn.addEventListener('click', () => switchTab(btn.dataset.tab));
-  });
 
   /* ---- Back-to-top button ---- */
   // Inject button if not in HTML
